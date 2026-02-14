@@ -1,20 +1,20 @@
 # WinXX
 
 <p>
-  WinXX is a Windows simulation desktop application built with <a href="https://electron.atom.io/">Electron</a> and <a href="https://facebook.github.io/react/">React</a>. Experience a simulated Windows environment with boot system, app launcher, web browser, and more.
+  WinXX là ứng dụng desktop mô phỏng Windows được xây dựng bằng <a href="https://electron.atom.io/">Electron</a> và <a href="https://facebook.github.io/react/">React</a>. Trải nghiệm môi trường Windows mô phỏng với hệ thống khởi động, trình quản lý ứng dụng, trình duyệt web và nhiều tính năng khác.
 </p>
 
-## Features
+## Tính năng
 
-- 🚀 Boot system simulation
-- 📱 App launcher and management
-- 🌐 Built-in web browser
-- 💻 Windows-like interface
-- ⚡ Fast and responsive
+- 🚀 Mô phỏng hệ thống khởi động
+- 📱 Trình quản lý và chạy ứng dụng
+- 🌐 Trình duyệt web tích hợp
+- 💻 Giao diện giống Windows
+- ⚡ Nhanh và mượt mà
 
-## Install
+## Cài đặt
 
-Clone the repo and install dependencies:
+Clone repo và cài đặt dependencies:
 
 ```bash
 git clone https://github.com/winxx/winxx.git
@@ -22,29 +22,29 @@ cd winxx
 npm install
 ```
 
-## Starting Development
+## Chạy ở chế độ phát triển
 
-Start the app in the `dev` environment:
+Khởi động ứng dụng ở chế độ `dev`:
 
 ```bash
 npm start
 ```
 
-## Packaging for Production
+## Đóng gói cho Production
 
-To package apps for the local platform:
+Để đóng gói ứng dụng cho nền tảng hiện tại:
 
 ```bash
 npm run package
 ```
 
-## Tech Stack
+## Công nghệ sử dụng
 
-- Electron - Cross-platform desktop framework
-- React - UI library
-- TypeScript - Type-safe development
+- Electron - Framework xây dựng ứng dụng desktop đa nền tảng
+- React - Thư viện UI
+- TypeScript - Phát triển với kiểu dữ liệu an toàn
 - Webpack - Module bundler
 
-## License
+## Giấy phép
 
 MIT © WinXX Team

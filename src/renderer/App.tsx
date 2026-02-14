@@ -9,25 +9,25 @@ function Hello() {
         <img width="200" alt="icon" src={icon} />
       </div>
       <h1>WinXX</h1>
-      <p>Windows Simulation Desktop App</p>
+      <p>Ứng dụng mô phỏng Windows</p>
       <div className="Hello">
         <button type="button">
           <span role="img" aria-label="rocket">
             🚀
           </span>
-          Boot System
+          Khởi động hệ thống
         </button>
         <button type="button">
           <span role="img" aria-label="apps">
             📱
           </span>
-          App Launcher
+          Trình quản lý ứng dụng
         </button>
         <button type="button">
           <span role="img" aria-label="browser">
             🌐
           </span>
-          Web Browser
+          Trình duyệt web
         </button>
       </div>
     </div>

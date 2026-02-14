@@ -1,6 +1,6 @@
 {
   "name": "winxx",
-  "description": "Windows simulation desktop app - Boot system, run apps, web browser, and more",
+  "description": "Ứng dụng desktop mô phỏng Windows - Khởi động hệ thống, chạy ứng dụng, trình duyệt web và nhiều hơn nữa",
   "keywords": [
     "electron",
     "windows",
@@ -8,7 +8,8 @@
     "react",
     "typescript",
     "desktop",
-    "os-simulation"
+    "os-simulation",
+    "vietnamese"
   ],
   "homepage": "https://github.com/winxx/winxx#readme",
   "bugs": {

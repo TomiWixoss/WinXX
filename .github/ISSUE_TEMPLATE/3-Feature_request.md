@@ -1,15 +1,17 @@
 ---
 name: Feature request
-about: You want something added to the boilerplate. 🎉
+about: You want something added to WinXX. 🎉
 labels: 'enhancement'
 ---
 
-<!---
-❗️❗️ Also, please consider donating (https://opencollective.com/electron-react-boilerplate-594) ❗️❗️
+## Feature Description
 
-Donations will ensure the following:
+<!-- Describe the feature you'd like to see -->
 
-🔨 Long term maintenance of the project
-🛣 Progress on the roadmap
-🐛 Quick responses to bug reports and help requests
- -->
+## Use Case
+
+<!-- Why would this feature be useful? -->
+
+## Possible Implementation
+
+<!-- Optional: Suggest how this could be implemented -->
